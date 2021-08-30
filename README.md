@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hola! 👋
 
 Soy Yoel Maximiliano Almirón, estudiante de 4to año en Ingeniería en Sistemas (UTN FRLP), y **developer Back-end autodidacta**.
