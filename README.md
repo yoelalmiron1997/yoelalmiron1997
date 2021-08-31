@@ -4,7 +4,7 @@ Soy Yoel Maximiliano Almirón, estudiante de 4to año en Ingeniería en Sistemas
 
 - 💻 Actualmente trabajando para NewLogic
 - 🔭 Mi puesto es Dev-Backend
-- ⚙️ Trabajo con `HTML5`, `CSS`, `Bootstrap`, `Vue`, `Node.js`, `Javascript` , `Sequelize`, `MongoDb`, `SQL`
+- ⚙️ Trabajo con `HTML5`, `CSS`, `Bootstrap`, `Laravel`, `Node.js`, `Javascript` , `Sequelize`, `MongoDb`, `SQL`
 - 🌱 Aprendiendo `Strapi`, `AWS` y `React`
 
 
