@@ -1,10 +1,10 @@
 # Hola! 👋
 
-Soy Yoel Maximiliano Almirón, estudiante de Ingeniería en Sistemas (UTN FRLP), y **developer Back-end autodidacta**.
+Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado), y **developer autodidacta**.
 
 - 💻 Actualmente trabajando de manera autodidacta en proyectos internos
-- 🔭 Mi puesto es Dev-Backend
-- ⚙️ Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Laravel`, `Node.js`, `Javascript` , `Sequelize`, `MongoDb`, `SQL`
+- 🔭 Mi puesto es Developer
+- ⚙️ Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript` , `Sequelize`, `MongoDb`, `SQL`, `Linux` ,  `Docker`
 - 🌱 Aprendiendo `Strapi`, `AWS` y `React`
 
 
