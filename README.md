@@ -1,6 +1,6 @@
 # Hola! 👋
 
-Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado), y **data engineer**.
+Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado) - **data engineer**.
 
 - 💻 Actualmente trabajando en ****
 - 🔭 Mi puesto es Ing. de datos satelital
