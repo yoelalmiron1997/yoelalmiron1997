@@ -1,11 +1,11 @@
 # Hola! 👋
 
-Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado), y **developer autodidacta**.
+Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado), y **data engineer**.
 
-- 💻 Actualmente trabajando de manera autodidacta en proyectos internos
-- 🔭 Mi puesto es Developer
-- ⚙️ Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript` , `Sequelize`, `MongoDb`, `SQL`, `Linux` ,  `Docker`
-- 🌱 Aprendiendo `Strapi`, `AWS` y `React`
+- 💻 Actualmente trabajando en INVAP
+- 🔭 Mi puesto es Ing. de datos satelital
+- ⚙️ Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript` , `Robot Framework`, `MongoDb`, `SQL`, `Linux` ,  `Docker`
+- 🌱 Aprendiendo `ElasticSearch`, `InfluxDB` y `Grafana`
 
 
 <p align="center">¡No dudes en contactarme!</p>
