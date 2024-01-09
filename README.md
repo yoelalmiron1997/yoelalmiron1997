@@ -2,7 +2,7 @@
 
 Soy Yoel Maximiliano Almirón, Ingeniero en Sistemas (UTN FRLP - Graduado), y **data engineer**.
 
-- 💻 Actualmente trabajando en INVAP
+- 💻 Actualmente trabajando en ****
 - 🔭 Mi puesto es Ing. de datos satelital
 - ⚙️ Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript` , `Robot Framework`, `MongoDb`, `SQL`, `Linux` ,  `Docker`
 - 🌱 Aprendiendo `ElasticSearch`, `InfluxDB` y `Grafana`
