@@ -1,98 +1,26 @@
 # ¡Hola! 👋 Soy **Yoel Maximiliano Almirón**
 
-🎓 **Ingeniero en Sistemas de Información** graduado de la **Universidad Tecnológica Nacional (UTN - FRLP)**.
+🎓 **Ingeniero en Sistemas de Información** (UTN - FRLP).
 
-Soy un profesional apasionado por el desarrollo de software, la automatización y el aseguramiento de la calidad. Cuento con más de **3 años de experiencia** en testing manual y automatizado, participando en proyectos de integración de sistemas, validación de APIs y automatización de pruebas utilizando Python y Robot Framework.
+Soy un **Ingeniero en Sistemas** con más de **3 años de experiencia** en Aseguramiento de Calidad de Software (QA), especializado en testing manual y automatizado, pruebas de integración y automatización con Python.
 
-Me gusta resolver problemas, aprender nuevas tecnologías y desarrollar soluciones que mejoren la calidad y confiabilidad del software.
+**Especialidades:** QA Automation • Python • Robot Framework • Selenium • APIs • Linux • CI/CD
 
-> **Especialidades:** QA Automation • Integration Testing • Python • Robot Framework • Selenium • Linux • APIs • CI/CD
+## 🛠️ Tecnologías
 
----
+**Lenguajes:** Python • C++ • JavaScript • SQL • Bash
 
-## 🚀 Sobre mí
+**QA & Testing:** Robot Framework • Selenium • Pytest • Postman • Swagger/OpenAPI
 
-* 🎓 Ingeniero en Sistemas de Información.
-* 🧪 Más de 3 años de experiencia en Software QA.
-* 🤖 Automatización de pruebas con **Python**, **Robot Framework** y **Selenium**.
-* 🔍 Experiencia en pruebas funcionales, pruebas de integración y pruebas de APIs.
-* 🐧 Apasionado por Linux, Python y la automatización.
-* 🚀 Experiencia trabajando con metodologías ágiles y pipelines CI/CD.
+**Bases de datos:** MySQL • MongoDB • InfluxDB • Elasticsearch
 
----
+**Herramientas:** Linux • Docker • Git • GitHub • GitLab • Jenkins • Jira • Portainer
 
-# 🛠️ Tecnologías
+**Observabilidad:** Grafana • Zabbix • Metricbeat
 
-### 💻 Lenguajes
+**Documentación:** MkDocs
 
-* Python
-* C++
-* JavaScript
-* SQL
-* Bash
-
-### 🐍 Ecosistema Python
-
-* Flask
-* Pandas
-* NumPy
-
-### 🧪 QA & Testing
-
-* Robot Framework
-* Selenium
-* Pytest
-* Postman
-* Swagger / OpenAPI
-* Testing Manual
-* Testing Automatizado
-* Testing de Integración
-* Testing de APIs
-
-### 🗄️ Bases de Datos
-
-* MySQL
-* MongoDB
-* InfluxDB
-* Elasticsearch
-
-### ⚙️ DevOps & Herramientas
-
-* Linux
-* Docker
-* Git
-* GitHub
-* GitLab
-* Jenkins
-* Portainer
-
-### 📚 Documentación
-
-* MkDocs
-* Markdown
-
-### 📊 Observabilidad y Monitoreo
-
-* Grafana
-* Zabbix
-* Metricbeat
-
-### 📋 Gestión y Metodologías
-
-* Jira
-* Scrum
-* Kanban
-* CI/CD
-
-### 📡 Protocolos y Tecnologías
-
-* MQTT
-* SNMP
-* REST APIs
-* JSON
-* XML
-
----
+**Protocolos:** MQTT • SNMP • REST APIs • JSON • XML
 
 ## 📫 Contacto
 
@@ -103,8 +31,4 @@ Me gusta resolver problemas, aprender nuevas tecnologías y desarrollar solucion
     <a href="mailto:yoelalmiron1997@gmail.com">
         <img src="./assets/icons/mail-fill.svg" alt="Email">
     </a>
-</p>
-
-<p align="center">
-🚀 Siempre abierto a nuevas oportunidades, proyectos desafiantes y colaboraciones.
 </p>
