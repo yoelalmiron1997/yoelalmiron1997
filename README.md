@@ -1,61 +1,100 @@
-# Hi there! 👋 I'm Yoel Maximiliano Almirón
+# ¡Hola! 👋 Soy **Yoel Maximiliano Almirón**
 
-🎓 Information Systems Engineer graduated from **Universidad Tecnológica Nacional (UTN - FRLP)**.
+🎓 **Ingeniero en Sistemas de Información** graduado de la **Universidad Tecnológica Nacional (UTN - FRLP)**.
 
-I'm a **Software QA Engineer** with over **3 years of experience** in manual and automated testing, focused on integration testing, test automation, and software quality for complex systems.
+Soy un **Software QA Engineer** con más de **3 años de experiencia** en testing manual y automatizado, especializado en pruebas de integración, automatización de pruebas y aseguramiento de la calidad para sistemas complejos.
 
-I enjoy building reliable test automation, improving development workflows, and solving challenging engineering problems. I'm passionate about learning new technologies and continuously improving software quality through automation.
+Me apasiona la automatización, el desarrollo con Python y la mejora continua de los procesos de calidad. Disfruto diseñar soluciones que permitan entregar software confiable, escalable y de alta calidad.
 
----
-
-## 🚀 About me
-
-- 💼 Information Systems Engineer
-- 🧪 +3 years of experience in Software QA (Manual & Automation)
-- 🤖 Test Automation with Robot Framework & Python
-- 🐧 Linux enthusiast
-- 🔄 Experience with CI/CD, GitLab, Jenkins and Docker
-- 🌐 Interested in Backend Development, Test Automation and Data Engineering
+> **Especialidades:** QA Automation • Integration Testing • Python • Robot Framework • Selenium • Linux • APIs • CI/CD
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Sobre mí
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### QA & Testing
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-00A86B?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6F00?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-
-### DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+* 🎓 Ingeniero en Sistemas de Información.
+* 🧪 +3 años de experiencia en Software QA (Manual & Automation).
+* 🤖 Automatización de pruebas con **Python**, **Robot Framework** y **Selenium**.
+* 🔍 Experiencia en pruebas funcionales, pruebas de integración, pruebas de APIs y documentación técnica.
+* 🐧 Apasionado por Linux, la automatización y las buenas prácticas de desarrollo.
+* 🚀 Experiencia trabajando con metodologías ágiles y pipelines CI/CD.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tecnologías
 
-- Elasticsearch
-- Grafana
-- Flask
+### 💻 Lenguajes de programación
+
+* Python
+* C++
+* JavaScript
+* SQL
+* Bash
+
+### 🐍 Ecosistema Python
+
+* Flask
+* Pandas
+* NumPy
+
+### 🧪 QA & Testing
+
+* Robot Framework
+* Selenium
+* Pytest
+* Testing Manual
+* Testing Automatizado
+* Testing de Integración
+* Testing de APIs (REST)
+* Swagger / OpenAPI
+* Postman
+
+### 🗄️ Bases de datos
+
+* MySQL
+* MongoDB
+* InfluxDB
+* Elasticsearch
+
+### ⚙️ DevOps & Herramientas
+
+* Linux
+* Docker
+* Git
+* GitHub
+* GitLab
+* Jenkins
+* Portainer
+
+### 📚 Documentación
+
+* MkDocs
+* Markdown
+
+### 📊 Observabilidad y Monitoreo
+
+* Grafana
+* Zabbix
+* Metricbeat
+
+### 📋 Gestión y Metodologías
+
+* Jira
+* Scrum
+* Kanban
+* CI/CD
+
+### 📡 Protocolos y Tecnologías
+
+* MQTT
+* SNMP
+* REST APIs
+* JSON
+* XML
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yoelalmiron1997&show_icons=true&theme=github_dark" />
@@ -64,7 +103,7 @@ I enjoy building reliable test automation, improving development workflows, and 
 
 ---
 
-## 📫 Connect with me
+## 📫 Contacto
 
 <p align="center">
     <a href="https://www.linkedin.com/in/yoel-almiron/" target="_blank">
@@ -73,11 +112,8 @@ I enjoy building reliable test automation, improving development workflows, and 
     <a href="mailto:yoelalmiron1997@gmail.com">
         <img src="./assets/icons/mail-fill.svg" alt="Email">
     </a>
-    <a href="https://twitter.com/YoelAlmiron" target="_blank">
-        <img src="./assets/icons/twitter-fill.svg" alt="Twitter">
-    </a>
 </p>
 
 <p align="center">
-💬 Always open to discussing Software QA, Test Automation, Python, Linux, and new opportunities.
+🚀 Siempre abierto a conversar sobre QA, automatización de pruebas, Python, ingeniería de software y nuevas oportunidades profesionales.
 </p>
