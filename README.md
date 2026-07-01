@@ -2,9 +2,9 @@
 
 🎓 **Ingeniero en Sistemas de Información** graduado de la **Universidad Tecnológica Nacional (UTN - FRLP)**.
 
-Soy un **Software QA Engineer** con más de **3 años de experiencia** en testing manual y automatizado, especializado en pruebas de integración, automatización de pruebas y aseguramiento de la calidad para sistemas complejos.
+Soy un profesional apasionado por el desarrollo de software, la automatización y el aseguramiento de la calidad. Cuento con más de **3 años de experiencia** en testing manual y automatizado, participando en proyectos de integración de sistemas, validación de APIs y automatización de pruebas utilizando Python y Robot Framework.
 
-Me apasiona la automatización, el desarrollo con Python y la mejora continua de los procesos de calidad. Disfruto diseñar soluciones que permitan entregar software confiable, escalable y de alta calidad.
+Me gusta resolver problemas, aprender nuevas tecnologías y desarrollar soluciones que mejoren la calidad y confiabilidad del software.
 
 > **Especialidades:** QA Automation • Integration Testing • Python • Robot Framework • Selenium • Linux • APIs • CI/CD
 
@@ -13,17 +13,17 @@ Me apasiona la automatización, el desarrollo con Python y la mejora continua de
 ## 🚀 Sobre mí
 
 * 🎓 Ingeniero en Sistemas de Información.
-* 🧪 +3 años de experiencia en Software QA (Manual & Automation).
+* 🧪 Más de 3 años de experiencia en Software QA.
 * 🤖 Automatización de pruebas con **Python**, **Robot Framework** y **Selenium**.
-* 🔍 Experiencia en pruebas funcionales, pruebas de integración, pruebas de APIs y documentación técnica.
-* 🐧 Apasionado por Linux, la automatización y las buenas prácticas de desarrollo.
+* 🔍 Experiencia en pruebas funcionales, pruebas de integración y pruebas de APIs.
+* 🐧 Apasionado por Linux, Python y la automatización.
 * 🚀 Experiencia trabajando con metodologías ágiles y pipelines CI/CD.
 
 ---
 
-## 🛠️ Tecnologías
+# 🛠️ Tecnologías
 
-### 💻 Lenguajes de programación
+### 💻 Lenguajes
 
 * Python
 * C++
@@ -42,14 +42,14 @@ Me apasiona la automatización, el desarrollo con Python y la mejora continua de
 * Robot Framework
 * Selenium
 * Pytest
+* Postman
+* Swagger / OpenAPI
 * Testing Manual
 * Testing Automatizado
 * Testing de Integración
-* Testing de APIs (REST)
-* Swagger / OpenAPI
-* Postman
+* Testing de APIs
 
-### 🗄️ Bases de datos
+### 🗄️ Bases de Datos
 
 * MySQL
 * MongoDB
@@ -94,15 +94,6 @@ Me apasiona la automatización, el desarrollo con Python y la mejora continua de
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yoelalmiron1997&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelalmiron1997&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
@@ -115,5 +106,5 @@ Me apasiona la automatización, el desarrollo con Python y la mejora continua de
 </p>
 
 <p align="center">
-🚀 Siempre abierto a conversar sobre QA, automatización de pruebas, Python, ingeniería de software y nuevas oportunidades profesionales.
+🚀 Siempre abierto a nuevas oportunidades, proyectos desafiantes y colaboraciones.
 </p>
