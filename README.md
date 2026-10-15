@@ -1,26 +1,41 @@
 # ¡Hola! 👋 Soy **Yoel Maximiliano Almirón**
 
-🎓 **Ingeniero en Sistemas de Información** (UTN - FRLP).
+🎓 **Ingeniero en Sistemas de Información** (UTN - FRLP) · 🧪 **QA Engineer – Testing Manual, Automatización e IA aplicada a QA**
 
-Soy un **Ingeniero en Sistemas** con más de **3 años de experiencia** en Aseguramiento de Calidad de Software (QA), especializado en testing manual y automatizado, pruebas de integración y automatización con Python.
+Tengo más de **3 años de experiencia** en Aseguramiento de Calidad de Software. Trabajé en **software de misión crítica** en INVAP (satélite SABIA-Mar y radares) y en **plataformas fintech**. Me gusta testear desde el requerimiento (**shift-left**), trabajar con filosofía **DevOps** y hablar mucho con los desarrolladores, porque también vengo del desarrollo.
 
-**Especialidades:** QA Automation • Python • Robot Framework • Selenium • APIs • Linux • CI/CD
+### 🚀 Lo que hago
+
+- 🐍 Diseño y mantengo **suites de testing backend en Python** con `pytest` y `unittest` (fixtures, parametrize, mocks).
+- 🎭 Automatizo pruebas de **UI y E2E** con **Playwright** y **Selenium** (Page Object Model) y las integro en **CI/CD**.
+- 🔌 Pruebo **APIs REST y SOAP** y **microservicios** que se comunican por **RabbitMQ** y **MQTT**, levantados con **Docker** y **docker-compose**.
+- 🤖 Construyo **skills agénticas con Claude y servidores MCP** que generan casos de prueba, ejecuciones y reportes.
+- 📊 Monitoreo y troubleshooting con **Grafana**, **Zabbix** y análisis de logs.
+
+### 📈 Algunos resultados
+
+- **700+ casos** automatizados en 3 suites de regresión, con **-50%** de tiempo de regresión manual.
+- **99% de cobertura** de pruebas en 3 releases de software satelital.
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:** Python • C++ • JavaScript • SQL • Bash
+**Lenguajes:** Python • JavaScript • Java • C++ • SQL • Bash
 
-**QA & Testing:** Robot Framework • Selenium • Pytest • Postman • Swagger/OpenAPI
+**Testing y automatización:** pytest • unittest • Playwright • Selenium • Robot Framework • Cypress • Appium • Karate
+
+**APIs:** Postman • Newman • SoapUI • Swagger/OpenAPI • REST • SOAP
+
+**Mensajería y protocolos:** RabbitMQ • MQTT • SNMP • JSON • XML
 
 **Bases de datos:** MySQL • MongoDB • InfluxDB • Elasticsearch
 
-**Herramientas:** Linux • Docker • Git • GitHub • GitLab • Jenkins • Jira • Portainer
+**DevOps y herramientas:** Linux (Debian/Ubuntu) • Docker • docker-compose • Portainer • Git • GitHub • GitLab CI • Jenkins • Jira • Xray
 
-**Observabilidad:** Grafana • Zabbix • Metricbeat
+**Observabilidad:** Grafana • Zabbix • Metricbeat • Apache JMeter
+
+**IA aplicada a QA:** Claude • Cursor • MCP • ChatGPT • Gemini
 
 **Documentación:** MkDocs
-
-**Protocolos:** MQTT • SNMP • REST APIs • JSON • XML
 
 ## 📫 Contacto
 
@@ -31,4 +46,8 @@ Soy un **Ingeniero en Sistemas** con más de **3 años de experiencia** en Asegu
     <a href="mailto:yoelalmiron1997@gmail.com">
         <img src="./assets/icons/mail-fill.svg" alt="Email">
     </a>
+</p>
+
+<p align="center">
+    🌐 <a href="https://yoelalmiron1997.github.io/portfolio/" target="_blank"><b>Mi portfolio de QA</b></a>
 </p>
