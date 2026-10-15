@@ -17,6 +17,12 @@ Tengo más de **3 años de experiencia** en Aseguramiento de Calidad de Software
 - **700+ casos** automatizados en 3 suites de regresión, con **-50%** de tiempo de regresión manual.
 - **99% de cobertura** de pruebas en 3 releases de software satelital.
 
+### 👨‍🏫 Docencia y contenido
+
+Me apasiona la **docencia**: disfruto explicar, compartir lo que aprendo y ayudar a otros a crecer en el mundo del testing y la tecnología. Por eso creé **TecnoBear**, mi canal de YouTube, donde comparto contenido sobre QA, automatización y tecnología.
+
+▶️ [**TecnoBear en YouTube**](https://www.youtube.com/@TecnoBearARG)
+
 ## 🛠️ Tecnologías
 
 **Lenguajes:** Python • JavaScript • Java • C++ • SQL • Bash
@@ -50,4 +56,6 @@ Tengo más de **3 años de experiencia** en Aseguramiento de Calidad de Software
 
 <p align="center">
     🌐 <a href="https://yoelalmiron1997.github.io/portfolio/" target="_blank"><b>Mi portfolio de QA</b></a>
+    &nbsp;•&nbsp;
+    ▶️ <a href="https://www.youtube.com/@TecnoBearARG" target="_blank"><b>TecnoBear en YouTube</b></a>
 </p>
