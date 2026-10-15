@@ -19,7 +19,7 @@ Tengo más de **3 años de experiencia** en Aseguramiento de Calidad de Software
 
 ### 👨‍🏫 Docencia y contenido
 
-Me apasiona la **docencia**: disfruto explicar, compartir lo que aprendo y ayudar a otros a crecer en el mundo del testing y la tecnología. Por eso creé **TecnoBear**, mi canal de YouTube, donde comparto contenido sobre QA, automatización y tecnología.
+Me apasiona la **docencia**: disfruto explicar, compartir lo que aprendo y ayudar a otros a aprender. Por eso creé **TecnoBear**, mi canal de YouTube, donde comparto **tutoriales de impresión 3D** y contenido sobre **ingeniería**.
 
 ▶️ [**TecnoBear en YouTube**](https://www.youtube.com/@TecnoBearARG)
 
