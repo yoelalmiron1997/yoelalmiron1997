@@ -2,7 +2,7 @@
 
 🎓 **Ingeniero en Sistemas de Información** (UTN - FRLP) · 🧪 **QA Engineer – Testing Manual, Automatización e IA aplicada a QA**
 
-Tengo más de **3 años de experiencia** en Aseguramiento de Calidad de Software. Trabajé en **software de misión crítica** en INVAP (satélite SABIA-Mar y radares) y en **plataformas fintech**. Me gusta testear desde el requerimiento (**shift-left**), trabajar con filosofía **DevOps** y hablar mucho con los desarrolladores, porque también vengo del desarrollo.
+Tengo más de **4 años de experiencia** en Aseguramiento de Calidad de Software. Trabajé en **software de misión crítica** en INVAP (satélite SABIA-Mar y radares) y en **plataformas fintech**. Me gusta testear desde el requerimiento (**shift-left**), trabajar con filosofía **DevOps** y hablar mucho con los desarrolladores, porque también vengo del desarrollo.
 
 ### 🚀 Lo que hago
 
